@@ -1,4 +1,15 @@
+import Search from "./components/search/Search.jsx";
+import "./App.css";
+
 function App() {
-  return <p>hello</p>;
+  const handleOnSearchChange = (searchData) => {
+    console.log(searchData);
+  };
+
+  return (
+    <div className="container">
+      <Search onSearchChange={handleOnSearchChange} />
+    </div>
+  );
 }
 export default App;
