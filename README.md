@@ -1,8 +1,24 @@
-# React + Vite
+# Weather app by React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<a href="https://weather-app-wheat-zeta-49.vercel.app/">Weather app live demo</a>
 
-Currently, two official plugins are available:
+It allows users to see the conditions, forecast, temperature, and other related metrics of the device's current location,
+### Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+##### Here's features included in this project
+
+- Search for cities
+- show the city weather information
+- show next week's weather information
+
+### Technologies Used:
+
+---
+
+1. React.js
+2. Vite dev tool
+3. CSS
+
+---
